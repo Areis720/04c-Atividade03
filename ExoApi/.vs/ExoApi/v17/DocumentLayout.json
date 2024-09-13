@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Augusto\\Documents\\ExoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|c:\\users\\augusto\\documents\\exoapi\\exoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|c:\\users\\augusto\\documents\\exoapi\\exoapi\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|c:\\users\\augusto\\documents\\exoapi\\exoapi\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|c:\\users\\augusto\\documents\\exoapi\\exoapi\\properties\\exoapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\properties\\exoapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|c:\\users\\augusto\\documents\\exoapi\\exoapi\\domains\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\domains\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|c:\\users\\augusto\\documents\\exoapi\\exoapi\\exoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E686D6A7-8097-4F1B-962D-B4FE088ACC34}|ExoApi\\ExoApi.csproj|solutionrelative:exoapi\\exoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Program.cs",
+              "RelativeToolTip": "ExoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:35:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetosController.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Controllers\\ProjetosController.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Controllers\\ProjetosController.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Controllers\\ProjetosController.cs",
+              "RelativeToolTip": "ExoApi\\Controllers\\ProjetosController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:24:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjetoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Repositories\\ProjetoRepository.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Repositories\\ProjetoRepository.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Repositories\\ProjetoRepository.cs",
+              "RelativeToolTip": "ExoApi\\Repositories\\ProjetoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:12:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExoApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Properties\\ExoApiContext.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Properties\\ExoApiContext.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Properties\\ExoApiContext.cs",
+              "RelativeToolTip": "ExoApi\\Properties\\ExoApiContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:36:35.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Domains\\Projeto.cs",
+              "RelativeDocumentMoniker": "ExoApi\\Domains\\Projeto.cs",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\Domains\\Projeto.cs",
+              "RelativeToolTip": "ExoApi\\Domains\\Projeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:13:39.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExoApi",
+              "DocumentMoniker": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\ExoApi.csproj",
+              "RelativeDocumentMoniker": "ExoApi\\ExoApi.csproj",
+              "ToolTip": "C:\\Users\\Augusto\\Documents\\ExoApi\\ExoApi\\ExoApi.csproj",
+              "RelativeToolTip": "ExoApi\\ExoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T18:10:10.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
